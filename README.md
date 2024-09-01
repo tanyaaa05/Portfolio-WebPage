@@ -9,10 +9,10 @@ Key Features <br/>
 
 
 💻 Technologies Used <br/>
-HTML: For semantic structure and content organization. <br/>
-CSS: Custom styles to enhance the overall look and feel. <br/>
-Tailwind CSS: Utility-first framework for rapid design and responsive layout. <br/>
-JavaScript: Adds interactivity and dynamic content. <br/>
+HTML: 🏗️ For semantic structure and content organization.
+CSS: 🎨 Custom styles to enhance the overall look and feel.
+Tailwind CSS: 🛠️ Utility-first framework for rapid design and responsive layout.
+JavaScript: ✨ Adds interactivity and dynamic content.
 
 
 🤔 Why This Project? <br/>
