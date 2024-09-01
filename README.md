@@ -1,4 +1,4 @@
-💼 Resume Webpage Project
+💼 Resume Webpage Project <br/>
 Welcome to my Resume Webpage Project! This project showcases a personal resume in a sleek, modern web format using HTML, CSS, Tailwind CSS, and JavaScript. The page is designed to be fully responsive and user-friendly, making it easy to navigate and visually appealing on any device.
 
 Key Features
