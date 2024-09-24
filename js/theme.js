@@ -109,43 +109,4 @@ $(document).ready(function () {
   var footerForm = document.querySelector('.js-footer-form');
   var modalFormName = '.js-modal-form';
   var footerFormName = '.js-footer-form';
-
-//   modalForm.addEventListener('submit', function(e){
-//     submitForm(e, modalFormName);
-//   });
-
-//   footerForm.addEventListener('submit', function(e){
-//     submitForm(e, footerFormName);
-//   });
-
-//   function submitForm(e, formName){
-//     e.preventDefault();
-//     var name = $(formName + ' .js-field-name').val();
-//     var email = $(formName + ' .js-field-email').val();
-//     var message = $(formName + ' .js-field-message').val();
-
-//     var formData = {
-//         name: name,
-//         email: email,
-//         message: message
-//     };
-
-//     $.ajax({
-//       type: "POST",
-//       url: '/mail.php',
-//       data: formData,
-//       success: function() {
-//         $('#contact-modal').modal('hide');
-//         $('#thanks-modal').modal('show');
-//       },
-//       error: function() {
-//         console.log('error');
-//         $('#contact-modal').modal('hide');
-//         // $('#error-modal').modal('show');
-//         $('#thanks-modal').modal('show');
-
-//       }
-//     });
-//   }
-
 });
